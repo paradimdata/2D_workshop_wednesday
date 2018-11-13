@@ -77,7 +77,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% elsif page.carpentry == "lc" %}
   {% include lc/who.html %}
 {% endif %}
-{% endcomment %}
 
 
 {% comment %}
